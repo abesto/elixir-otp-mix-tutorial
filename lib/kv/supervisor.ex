@@ -1,4 +1,5 @@
 defmodule KV.Supervisor do
+  @moduledoc "Top-level supervisor for the KV application"
   use Supervisor
 
   def start_link(opts) do

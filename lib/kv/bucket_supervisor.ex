@@ -1,4 +1,5 @@
 defmodule KV.BucketSupervisor do
+  @moduledoc "Supervise buckets"
   use Supervisor
 
   @name KV.BucketSupervisor
