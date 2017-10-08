@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/kv/kv.iml" filepath="$PROJECT_DIR$/apps/kv/kv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/kv_server/kvserver.iml" filepath="$PROJECT_DIR$/apps/kv_server/kvserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kvumbrella.iml" filepath="$PROJECT_DIR$/kvumbrella.iml" />
+    </modules>
+  </component>
+</project>
